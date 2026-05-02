@@ -1,5 +1,5 @@
 # About Me 
-I am priyadarshini Dash learning coding from basics
+I am Priyadarshini Dash learning coding from basics
 ## python-basics
 My journey of learning Python from basics with small programs
 ### Programs:
